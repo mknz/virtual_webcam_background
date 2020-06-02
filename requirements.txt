@@ -6,3 +6,4 @@ pyyaml
 pyfakewebcam
 opencv-python
 tfjs-graph-converter==1.0.0
+scikit-image
